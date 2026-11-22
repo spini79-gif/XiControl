@@ -1,8 +1,8 @@
 
 {
-  "_culture": "en",
-  "_name": "English",
-  "_order": 1,
+  "_culture": "pl",
+  "_name": "Polski",
+  "_order": 4,
   "app.name": "Xi Control",
   "menu.charge": "Battery care ({0}%)",
   "menu.travel": "Travel charge (100%)",
