@@ -1,8 +1,8 @@
 
 {
-  "_kultura": "pl",
-  "_name": "angielski",
-  "_order": 1,
+  "_culture": "pl",
+  "_name": "Polski",
+  "_order": 4,
   "app.name": "Kontrola Xi",
   "menu.charge": "Pielęgnacja baterii ({0}%)",
   "menu.travel": "Opłata za podróż (100%)",
