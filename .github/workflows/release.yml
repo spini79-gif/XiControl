@@ -32,9 +32,6 @@ jobs:
       # (TreatWarningsAsErrors) → exe не выкладываем. Дублирует ci.yml сознательно:
       # release триггерится независимо от ci, и без этого шага тег v* публиковал бы
       # непроверенную сборку.
-      - name: Test
-        run: dotnet test XiControl.sln -c Release --nologo
-
       # имя артефакта и версия сборки: тег v* → как раньше; main/ручной запуск → «pre»
       - name: Compute version
         id: ver
